@@ -1,0 +1,6 @@
+1. Variables
+2. If and else with Nested conditions
+3. Functions
+4. Arrays
+5. Objects
+6. Logical Operators
